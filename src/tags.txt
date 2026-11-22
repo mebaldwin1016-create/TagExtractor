@@ -1,0 +1,8 @@
+authorities : 1
+city : 2
+flew : 1
+pilot : 2
+reported : 2
+residents : 1
+seen : 1
+ufo : 4
